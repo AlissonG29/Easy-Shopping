@@ -7,7 +7,7 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
-<img src="https://github.com/AlissonG29/Easy-Shopping/blob/main/assets/Captura%20de%20tela%202024-10-20%20191353.png?raw=true"/>
+<img src="https://github.com/AlissonG29/Easy-Shopping/blob/main/assets/desktop.png?raw=true"/>
 <br>
 <h2>Foi utilizado responssividade nesse projeto, segue exemplo:</h2>
 
