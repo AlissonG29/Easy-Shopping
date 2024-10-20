@@ -11,4 +11,4 @@
 <br>
 <h2>Foi utilizado responssividade nesse projeto, segue exemplo:</h2>
 
-<img src="
+<img src="https://github.com/AlissonG29/Easy-Shopping/blob/main/assets/Captura%20de%20tela%202024-10-20%20191504.png?raw=true"/>
